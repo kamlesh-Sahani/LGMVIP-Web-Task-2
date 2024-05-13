@@ -1,6 +1,4 @@
 
-```markdown
-
 # User Card Grid Layout
 
 
@@ -58,4 +56,3 @@ Include screenshots of your application here if applicable.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
