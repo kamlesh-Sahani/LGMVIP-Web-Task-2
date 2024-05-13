@@ -21,7 +21,7 @@ This project is a React application that displays user information in a grid lay
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/user-card-grid-layout.git
+   git clone [https://github.com/your-username/user-card-grid-layout.git](https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-2.git)
    ```
 
 2. Navigate to the project directory:
@@ -50,8 +50,9 @@ This project uses the [Reqres API](https://reqres.in/) to fetch user data.
 
 ## Screenshots
 
-Include screenshots of your application here if applicable.
 
+![task2-2](https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-2/assets/126887367/c4513f51-a38f-47e4-a3e6-3736a161c87e)
+![task2-1](https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-2/assets/126887367/f31faeae-9332-44cc-884d-233e2a3c5863)
 
 ## License
 
