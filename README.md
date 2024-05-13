@@ -21,7 +21,7 @@ This project is a React application that displays user information in a grid lay
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/user-card-grid-layout.git](https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-2.git)
+   git clone https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-2.git
    ```
 
 2. Navigate to the project directory:
